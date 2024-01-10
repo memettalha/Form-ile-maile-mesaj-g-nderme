@@ -1,0 +1,28 @@
+body{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+form{
+   margin-top:5%;
+   margin-bottom: 5%;
+   background-color: rgb(103, 180, 122);
+   padding: 50px;
+   box-shadow: 5px 5px 5px rgb(90, 129, 100);
+   border-radius: 10%;
+}
+
+input{
+    width:300px;
+}
+
+button{
+    color:white;
+    box-shadow: 1px 1px 1px rgb(3, 11, 134);
+    width:350px;
+    text-align:center;
+    
+    
+
+}
